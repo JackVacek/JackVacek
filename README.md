@@ -9,8 +9,8 @@ I first started coding my sophomore year of high school and haven't stopped sinc
 * 🌍  I'm based in Dallas, Tx
 * 🖥️  See my portfolio at [MyPortfolio](http://jackvacek.github.io/MyPersonalWebsite/)
 * ✉️  You can contact me at [vacekjack@gmail.com](mailto:vacekjack@gmail.com)
-* 🚀  I'm currently working on [Styndr](http://styndr.com)
-* 🧠  I'm learning about competitive programming algorithms
+* 🚀  I'm currently working @ Valent Partners as a Full Stack Developer
+* 🧠  I'm learning about competitive programming algorithms & trading through ML
 * 🤝  I'm open to collaborating on projects that include machine learning
 * ⚡  I love playing volleyball in my free time
 

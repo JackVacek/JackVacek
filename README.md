@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer
 ----------
 
-I first started coding my sophomore year of high school and haven't stopped since! I am currently enjoying learning about competitive programming, web development, and machine learning!
+I first started coding my sophomore year of high school and haven't stopped since! I am currently enjoying learning about competitive programming, web development, machine learning, and stocks!
 
-* 🌍  I'm based in College Station
+* 🌍  I'm based in Dallas, Tx
 * 🖥️  See my portfolio at [MyPortfolio](http://jackvacek.github.io/MyPersonalWebsite/)
 * ✉️  You can contact me at [vacekjack@gmail.com](mailto:vacekjack@gmail.com)
 * 🚀  I'm currently working on [Styndr](http://styndr.com)
